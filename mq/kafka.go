@@ -1,4 +1,4 @@
-package chxlib
+package mq
 
 import (
 	"errors"

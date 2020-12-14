@@ -1,4 +1,4 @@
-package chxlib
+package xdb
 
 import (
 	"github.com/astaxie/beego/logs"

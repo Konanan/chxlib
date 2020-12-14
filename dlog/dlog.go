@@ -1,4 +1,4 @@
-package chxlib
+package dlog
 
 import (
 	"errors"
