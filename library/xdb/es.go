@@ -1,4 +1,4 @@
-package xdb
+package chxlib
 
 import (
 	"crypto/tls"
