@@ -1,7 +1,5 @@
 module github.com/Konanan/chxlib
 
-go 1.14
-
 require (
 	github.com/Shopify/sarama v1.27.2
 	github.com/astaxie/beego v1.12.3
@@ -14,3 +12,5 @@ require (
 	gorm.io/driver/mysql v1.0.3
 	gorm.io/gorm v1.20.8
 )
+
+go 1.14
