@@ -1,4 +1,4 @@
-module chxlib
+module github.com/Konanan/chxlib
 
 go 1.14
 
